@@ -1,0 +1,2 @@
+# akuOS
+yes
